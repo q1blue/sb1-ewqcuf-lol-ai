@@ -1,0 +1,20 @@
+{
+  "name": "lol-ai-framework",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "test": "vitest",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.2",
+    "vite": "^4.4.5",
+    "vitest": "^0.34.3"
+  }
+}
