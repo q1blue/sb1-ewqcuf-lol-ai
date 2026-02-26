@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@types/node": "^20.8.2",
-    "vite": "^4.4.5",
+    "vite": "^5.4.21",
     "vitest": "^0.34.3"
   }
 }
